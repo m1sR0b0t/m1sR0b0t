@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @m1sR0b0t
+- 👋 Hi, I’m s1ntax$1ch
 - 👀 I’m interested in app making
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
